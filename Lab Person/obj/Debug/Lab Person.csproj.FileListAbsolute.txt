@@ -1,0 +1,8 @@
+C:\Users\twist\Documents\School\Winter 2023\OOP2\Lab Person\Lab Person\obj\Debug\Lab Person.csproj.AssemblyReference.cache
+C:\Users\twist\Documents\School\Winter 2023\OOP2\Lab Person\Lab Person\obj\Debug\Lab Person.csproj.SuggestedBindingRedirects.cache
+C:\Users\twist\Documents\School\Winter 2023\OOP2\Lab Person\Lab Person\obj\Debug\Lab Person.csproj.CoreCompileInputs.cache
+C:\Users\twist\Documents\School\Winter 2023\OOP2\Lab Person\Lab Person\bin\Debug\Lab Person.exe.config
+C:\Users\twist\Documents\School\Winter 2023\OOP2\Lab Person\Lab Person\bin\Debug\Lab Person.exe
+C:\Users\twist\Documents\School\Winter 2023\OOP2\Lab Person\Lab Person\bin\Debug\Lab Person.pdb
+C:\Users\twist\Documents\School\Winter 2023\OOP2\Lab Person\Lab Person\obj\Debug\Lab Person.exe
+C:\Users\twist\Documents\School\Winter 2023\OOP2\Lab Person\Lab Person\obj\Debug\Lab Person.pdb
